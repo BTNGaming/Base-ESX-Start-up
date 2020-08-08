@@ -1,5 +1,10 @@
 # Base ESX Start-up by BTNGaming
 
+### Version Information
+* PLEASE GIVE THIS INFORMATION IF YOU NEED HELP IN OUR [DISCORD](https://discord.gg/9uRJv5v)
+  * ES_Extended 1.1.0
+  * EssentialMode 6.4.2
+
 ### Requirements
 * Time
 
