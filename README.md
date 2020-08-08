@@ -2,8 +2,8 @@
 
 ### Version Information
 * PLEASE GIVE THIS INFORMATION IF YOU NEED HELP IN OUR [DISCORD](https://discord.gg/9uRJv5v)
-  * ES_Extended 1.1.0
-  * EssentialMode 6.4.2
+  * [ES_Extended 1.1.0](https://github.com/esx-framework/es_extended/tree/legacy)
+  * [EssentialMode 6.4.2](https://github.com/kanersps/essentialmode)
 
 ### Requirements
 * Time
