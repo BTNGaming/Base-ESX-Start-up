@@ -40,16 +40,16 @@ https://github.com/btngaming/Base-ESX
 ### For any help/support needed, PLEASE DO NOT DM ME, Use our discord, we have an amazing and helpful community.
 
 ## Installation
-- 1) Extract the server into a place of your choosing.
-- 2) Install the database from the base folder called esx-base-server.sql
-- 3) Edit all information in server.cfg according to what you need (Tutorial on each line included)
-- 4) Once you have finished editing server.cfg, start FXServer.exe, It will create a "txadmin" 4 digit pin for you SAVE THAT PIN
-- 5) Load up your browser and go to your server ip and port 40120 (For this example i'll use my desktop/localhost): 127.0.0.1:40120
-- 6) Enter the PIN given to you by the server command prompt screen on step 3.
-- 7) Create your user and password(This will create the primary account for your administrative needs)
-- 8) Click Settings and edit everything to your liking/needs.
-- 9) Go to the "DASHBOARD" tab and click "START".
-- 10) If you did everything properly, your server is running, enjoy!
+- 1 ) Extract the server into a place of your choosing.
+- 2 ) Install the database from the base folder called esx-base-server.sql
+- 3 ) Edit all information in server.cfg according to what you need (Tutorial on each line included)
+- 4 ) Once you have finished editing server.cfg, start FXServer.exe, It will create a "txadmin" 4 digit pin for you SAVE THAT PIN
+- 5 ) Load up your browser and go to your server ip and port 40120 (For this example i'll use my desktop/localhost): 127.0.0.1:40120
+- 6 ) Enter the PIN given to you by the server command prompt screen on step 3.
+- 7 ) Create your user and password(This will create the primary account for your administrative needs)
+- 8 ) Click Settings and edit everything to your liking/needs.
+- 9 ) Go to the "DASHBOARD" tab and click "START".
+- 10 ) If you did everything properly, your server is running, enjoy!
 
 # Legal & Information
 ### Legalities
